@@ -40,6 +40,8 @@ Choose `Others` and pick up PolishColemacCapital
 
 ł: AltGr+[l] Ł: Shift+AltGr+[l]
 
+â, ê, î, ô, û: AltGr+[x]+[a/e/i/o/u] Â, Ê, Î, Ô, Û: Shift+AltGr+[x]+[a/e/i/o/u]
+
 # vs Original Colemak
 Current state of standard Colemak Polish bindings ( http://colemak.com/Multilingual ):
 
